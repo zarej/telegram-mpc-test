@@ -48,7 +48,7 @@ if (import.meta.env.DEV) {
         headerBgColor: '#17212b',
         hintColor: '#708499',
         linkColor: '#6ab3f3',
-        secondaryBgColor: '#232e3c',
+        secondaryBgColor: '#fff',
         sectionBgColor: '#17212b',
         sectionHeaderTextColor: '#6ab3f3',
         subtitleTextColor: '#708499',
